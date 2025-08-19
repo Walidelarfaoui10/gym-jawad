@@ -1,0 +1,2 @@
+-- Not required for SQLite. Use install.php to create the database and tables.
+-- The SQLite DB file will be created at data/gym.sqlite when install.php runs.

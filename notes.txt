@@ -1,0 +1,1 @@
+Run install.php once to create the SQLite DB (data/gym.sqlite). Use DraftCode or any PHP server with SQLite support. After running install.php, you can register agencies and add members.
